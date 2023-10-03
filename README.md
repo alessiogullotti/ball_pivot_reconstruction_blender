@@ -18,9 +18,7 @@ Select a manifold mesh, non-manifold mesh or a point cloud, under the Object men
 ## Example
 There is a blend file with some example meshes, which were used for testing.
 
-Video Example
-<video src='[https://youtu.be/JlTUJY8_STg](https://www.youtube.com/watch?v=JlTUJY8_STg)' width=180/> 
-
+Video: https://youtu.be/JlTUJY8_STg
 Notes:
 * Planar meshes or point clouds can cause some problems
 * If the reconstruction is not complete, try changing the readius parameter
